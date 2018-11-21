@@ -1,0 +1,7 @@
+{
+  "name": "node-react-appointment",
+  "version": "1.0.0",
+  "description": "An appointment scheduler react web app",
+  "main": "index.js",
+  "author": "Bryan Yingling"
+}
